@@ -6,8 +6,11 @@
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 - 👨‍💻 I’m a Full Stack Developer passionate about Web and Android Development
+
 -📱 Proficient in building modern apps using Java XML,
+
 -🌐 Skilled in HTML, CSS, JavaScript, for responsive web apps
+
 -🚀 Learning Advanced Android Architectures, Web Performance Optimization
 - 🔗 Check out my work on [GitHub](https://github.com/harsh6054?tab=repositories)
 - 📬 Reach me at: [harshpatil6054@gmail.com](mailto:harshpatil6054@gmail.com)
