@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Karan Chaudhari</h1>
+<h1 align="center">Hi 👋, I'm Harshvardhan Patil</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 # 💫 About Me:
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-- 👨‍💻 I’m a **Full Stack Developer** specializing in the **MERN Stack**
-- 🧠 Currently exploring **DevOps**, **Authentication**, **Cloud Deployments**, and **Clean Architecture**
-- 🌱 I’m learning advanced concepts in **Backend Engineering** and **System Design**
-- 🔗 Check out my work on [GitHub](https://github.com/karannchaudhari04?tab=repositories)
-- 📬 Reach me at: [karanchaudhari722@gmail.com](mailto:karanchaudhari722@gmail.com)
+- 👨‍💻 I’m a Full Stack Developer passionate about Web and Android Development
+-📱 Proficient in building modern apps using Java XML,
+-🌐 Skilled in HTML, CSS, JavaScript, for responsive web apps
+-🚀 Learning Advanced Android Architectures, Web Performance Optimization
+- 🔗 Check out my work on [GitHub](https://github.com/harsh6054?tab=repositories)
+- 📬 Reach me at: [harshpatil6054@gmail.com](mailto:harshpatil6054@gmail.com)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-chaudhari-a7801a2a6/)
-[![X](https://img.shields.io/badge/X-000000.svg?logo=twitter&logoColor=white)](https://x.com/karannchaudhari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-patil-31441132b/)
 <br>
 
 
@@ -31,12 +31,6 @@
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/><br/>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/><br/>React
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/><br/>Node.js
     </td>
     <td align="center">
       <img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png" alt="GitHub"/><br/>GitHub
@@ -82,10 +76,10 @@
 <table>
   <tr>
     <td>
-      <img height="200" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karannchaudhari04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+      <img height="200" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh6054&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
     </td>
     <td>
-      <img height="200" width="500" src="https://nirzak-streak-stats.vercel.app/?user=karannchaudhari04&theme=aura_dark&hide_border=false" alt="GitHub Streak Stats" />
+      <img height="200" width="500" src="https://nirzak-streak-stats.vercel.app/?user=harsh6054&theme=aura_dark&hide_border=false" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
@@ -99,6 +93,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=karannchaudhari04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=harsh6054&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=karannchaudhari04&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=harsh6054&icon=0&color=0)](https://visitcount.itsvg.in)
