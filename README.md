@@ -39,36 +39,36 @@
       <img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png" alt="GitHub"/><br/>GitHub
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/><br/>MongoDB
+      <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="48" /><br/>Java
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman"/><br/>Postman
+      <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" alt="Python" width="48" /><br/>Python
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="Express.js"/><br/>Express.js
+      <img src="https://img.icons8.com/?size=100&id=13460&format=png&color=000000" alt="PHP" width="48" /><br/>PHP
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/><br/>Tailwind CSS
+      <img src="https://img.icons8.com/?size=100&id=17836&format=png&color=000000" alt="Android" width="48" /><br/>Android
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="48"/><br/>Vite
+      <img src="https://img.icons8.com/?size=100&id=KZHjwwenS7oK&format=png&color=000000" alt="DataBase" width="48"/><br/>DataBase
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/java-web-token.png" alt="JWT"/><br/>JWT Auth
+      <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="sql" width="48"/><br/>SQL
     </td>
     <td align="center">
-      <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="48"/><br/>Vercel
+      <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="c" width="48"/><br/>C Language
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/57712360?s=200&v=4" alt="Render" width="48"/><br/>Render
+      <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" alt="C++" width="48"/><br/>C++
     </td>
     <td align="center">
-      <img src="https://res.cloudinary.com/digblfqti/image/upload/v1750317878/samples/cloudinary-logo-vector.svg" alt="Cloudinary" width="48"/><br/>Cloudinary
+      <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" alt="Assembly" width="48"/><br/>Assembly
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="Zustand" width="48"/><br/>Zustand
+      <img src="https://img.icons8.com/?size=100&id=59979&format=png&color=000000" alt="vb.net" width="48"/><br/>VB.Net
     </td>
   </tr>
 </table>
