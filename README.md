@@ -12,7 +12,7 @@
 -🌐 Skilled in HTML, CSS, JavaScript, for responsive web apps
 
 -🚀 Learning Advanced Android Architectures, Web Performance Optimization
-- 🔗 Check out my work on [GitHub](https://github.com/harsh6054?tab=repositories)
+
 - 📬 Reach me at: [harshpatil6054@gmail.com](mailto:harshpatil6054@gmail.com)
 
 
