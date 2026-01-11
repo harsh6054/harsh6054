@@ -74,26 +74,6 @@
 </table>
 
 
-# 📊 GitHub Stats:
-
-<table>
-  <tr>
-    <td>
-      <img height="200" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh6054&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
-    <td>
-      <img height="200" width="500" src="https://nirzak-streak-stats.vercel.app/?user=harsh6054&theme=aura_dark&hide_border=false" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
-
-
-<br/>
-<br/>
-<br/>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harsh6054&limit=5&theme=dark&combine_all_yearly_contributions=true)
