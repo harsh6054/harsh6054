@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h3 align="left">Connect with me:</h3>
+# 📫 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/harshvardhan-patil-31441132b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshvardhan-patil-31441132b/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/harsshpatil.11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/harsshpatil.11/" height="30" width="40" /></a>
@@ -33,7 +33,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Languages and Tools:</h3>
+# 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,cpp,py,java,html,js,bootstrap,react,npm,mysql,mongodb,netlify,github,opencv,vscode,devto,figma&perline=6" />
@@ -41,7 +41,9 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-### 📊 GitHub Activity Graph
+
+
+# 📊 GitHub Activity Graph
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
