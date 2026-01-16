@@ -11,14 +11,14 @@
 
 - 👨‍💻 Full Stack Developer with a strong interest in Web and Android Development.
 
--📱 Experienced in building modern Android applications using Java and XML.
+- 📱 Experienced in building modern Android applications using Java and XML.
 
--🌐 Proficient in developing responsive web applications using HTML, CSS, and JavaScript.
+- 🌐 Proficient in developing responsive web applications using HTML, CSS, and JavaScript.
 
--🚀 Continuously learning advanced Android architectures and web performance optimization to build scalable and efficient applications.
+- 🚀 Continuously learning advanced Android architectures and web performance optimization to build scalable and efficient applications.
 
 - 📬 Reach me at: [harshpatil6054@gmail.com](mailto:harshpatil6054@gmail.com)
-- 
+
 📄 Know about my experiences → [View Resume](https://bi-uploads.s3.ap-south-1.amazonaws.com/user/resume/Harshvardhan-Patil-0db7b3bf88b38f21bd9cf4029b2f4d9c-cc5f3f24.pdf)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
