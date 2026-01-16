@@ -36,7 +36,7 @@
 ### Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,py,java,html,js,bootstrap,react,npm,mysql,mongodb,netlify,github,opencv,vscode,devto,figma&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,py,java,html,js,bootstrap,react,css,mysql,mongodb,netlify,github,django,vscode,devto,eclipse,java,linux,php,,powershellwordpress,dotnet&perline=6" />
   </a>
 </p>
 
