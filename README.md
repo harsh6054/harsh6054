@@ -46,7 +46,7 @@
 ###  GitHub Activity Graph
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/harsh6054/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh6054&theme=react" alt="GitHub Activity Graph">
   </a>
 </p>
