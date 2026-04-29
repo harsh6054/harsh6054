@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">Hi 👋, I'm Harshvardhan Patil</h1>
+<h1 align="center">Hi , I'm Harshvardhan Patil</h1>
 <h3 align="center">Passionate Developer| Backend Learner | Web & Application Developer </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -16,7 +16,6 @@
 
 - 📬 Reach me at: [harshpatil6054@gmail.com](mailto:harshpatil6054@gmail.com)
 
-📄 Know about my experiences → [View Resume](https://bi-uploads.s3.ap-south-1.amazonaws.com/user/resume/Harshvardhan-Patil-0db7b3bf88b38f21bd9cf4029b2f4d9c-cc5f3f24.pdf)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
