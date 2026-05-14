@@ -6,7 +6,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=harsh6054)
 
 
-<a href="https://leetcode.com/u/harshpatil6054/" target="_blank">
   <table align="center" width="100%">
     <tr>
       <td width="50%" align="center">
@@ -18,6 +17,7 @@
       </td>
       <td width="50%" align="center">
 
+<a href="https://leetcode.com/u/harshpatil6054/" target="_blank">
 <h2 align="center">Leetcode Info</h2>
 
 <p align="center">
