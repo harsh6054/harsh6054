@@ -52,7 +52,6 @@
 
 </div>
 
-
 <h1 align="left">Languages and Tools:</h1>
 
 <p align="center">
