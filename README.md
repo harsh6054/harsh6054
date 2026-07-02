@@ -21,11 +21,11 @@
 <h2 align="center">Leetcode Info</h2>
 
 <p align="center">
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="70"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="70"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="70"/>
+  <img 
+    src="https://leetcard.jacoblin.cool/harshpatil6054?theme=dark&font=Nunito&ext=heatmap"
+    width="500"
+  />
 </p>
-
 <p align="center">
   <img 
     src="https://leetcard.jacoblin.cool/harshpatil6054?theme=dark&font=Nunito&ext=heatmap"
