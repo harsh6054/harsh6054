@@ -21,16 +21,12 @@
 <h2 align="center">Leetcode Info</h2>
 
 <p align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/harshpatil6054?theme=dark&font=Nunito&ext=heatmap"
-    width="500"
-  />
+  <img src="https://leetcard.jacoblin.cool/harshpatil6054?theme=dark&font=Nunito&ext=heatmap" width="450"/>
 </p>
+
 <p align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/harshpatil6054?theme=dark&font=Nunito&ext=heatmap"
-    width="420"
-  />
+  <img src="https://raw.githubusercontent.com/harsh6054/harsh6054/main/assets/badge1.png" height="60"/>
+  <img src="https://raw.githubusercontent.com/harsh6054/harsh6054/main/assets/badge2.png" height="60"/>
 </p>
       </td>
     </tr>
