@@ -32,20 +32,18 @@
 
 ### 🏅 LeetCode Badges:
 
-<div align="center" style="overflow-x: auto; white-space: nowrap; padding: 15px;">
+<div align="center">
 
   <img 
     src="https://leetcode-badge-showcase.vercel.app/api?username=harshpatil6054&theme=dark&animated=true"
     style="
-      display: inline-block;
-      border-radius: 12px;
-      transition: transform 0.4s ease, box-shadow 0.4s ease;
+      border-radius: 16px;
+      transition: all 0.4s ease;
     "
-    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.5)'"
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"
   />
 
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🐍 Watch My Contributions Get Eaten
