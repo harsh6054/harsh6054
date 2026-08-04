@@ -23,23 +23,29 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/harshpatil6054?theme=dark&font=Nunito&ext=heatmap" width="450"/>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh6054/harsh6054/main/assets/badge1.png" height="60"/>
-  <img src="https://raw.githubusercontent.com/harsh6054/harsh6054/main/assets/badge2.png" height="60"/>
-</p>
       </td>
     </tr>
   </table>
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-##🏅 LeetCode Badges:
 
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=harshpatil6054&theme=dark&animated=true" alt="LeetCode Badges"/>
-</p>
+### 🏅 LeetCode Badges:
 
+<div align="center" style="overflow-x: auto; white-space: nowrap; padding: 15px;">
+
+  <img 
+    src="https://leetcode-badge-showcase.vercel.app/api?username=harshpatil6054&theme=dark&animated=true"
+    style="
+      display: inline-block;
+      border-radius: 12px;
+      transition: transform 0.4s ease, box-shadow 0.4s ease;
+    "
+    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.5)'"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"
+  />
+
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🐍 Watch My Contributions Get Eaten
