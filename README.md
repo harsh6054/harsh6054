@@ -6,43 +6,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=harsh6054)
 
 
-  <table align="center" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img 
-          src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-          alt="coding"
-          width="400"
-        />
-      </td>
-      <td width="50%" align="center">
-
-<a href="https://leetcode.com/u/harshpatil6054/" target="_blank">
-<h2 align="center">Leetcode Info</h2>
+### 🏅 LeetCode Info :
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/harshpatil6054?theme=dark&font=Nunito&ext=heatmap" width="450"/>
+  <img src="https://leetcard.jacoblin.cool/harshpatil6054?theme=dark&ext=activity"/>
 </p>
-      </td>
-    </tr>
-  </table>
-</a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🏅 LeetCode Badges:
-
-<div align="center">
-
-  <img 
-    src="https://leetcode-badge-showcase.vercel.app/api?username=harshpatil6054&theme=dark&animated=true"
-    style="
-      border-radius: 16px;
-      transition: all 0.4s ease;
-    "
-  />
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
