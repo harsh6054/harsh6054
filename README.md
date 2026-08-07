@@ -3,13 +3,13 @@
 <h3 align="center">Passionate Developer| Backend Learner | DSA Enthusiast </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Profile Views](https://komarev.com/ghpvc/?username=harsh6054)
+![Profile Views](https://komarev.com/ghpvc/?username=harshvardhanpatil11)
 
 
 ### 🏅 LeetCode Info :
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/harshpatil6054?theme=dark&ext=activity"/>
+  <img src="https://leetcard.jacoblin.cool/harshvardhanpatil11?theme=dark&ext=activity"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -19,9 +19,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsh6054/harsh6054/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh6054/harsh6054/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/harsh6054/harsh6054/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshvardhanpatil11/harshvardhanpatil11/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshvardhanpatil11/harsh6054/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/harshvardhanpatil11/harshvardhanpatil11/output/github-snake.svg" />
 </picture>
 
 </div>
